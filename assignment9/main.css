@@ -1,0 +1,81 @@
+body {
+  margin: 0px;
+}
+
+nav {
+  border-top: 8px solid gold;
+  border-bottom: 8px solid gold;
+  padding: 10px;
+  text-align: center;
+}
+
+.logo {
+  width: 75px;
+}
+
+.sitemotto {
+  color: #9000B6;
+  font-family: oswald, tofu, sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+article {
+  margin-left: 10%;
+  width: 60%;
+}
+
+header {
+    font-family: oswald, tofu, sans-serif;
+      color: #9000B6;
+    font-size: 20px;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+.byline {
+  font-weight: bold;
+}
+
+.tdpad {
+  padding: 15px;
+}
+
+article > p {
+  font-family: Pensum, "Times New Roman", serif;
+  font-size: 20px;
+}
+
+.story_image {
+  width: 100%;
+}
+
+.caption {
+  color: gray;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: oswald, tofu, sans-serif;
+}
+
+footer > p {
+  font-size: 14px;
+  color: #666;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
+
